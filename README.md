@@ -1,20 +1,28 @@
-### Hi there 👋
-#### I'm Rahul Dev Sharma an Undergraduate Physics student at SUST.
+### Hi there 👋,I'm Rahul Dev Sharma
+#### An Undergraduate Physics student open to learn about anything.
 ### Passionate About:
 * *Programming*
 * *Simulations*
 * *Astrophysics*
 ### Find me on:
 <p align="center">
-    <a href="https://github.com/rahulsust" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@rahulsust-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/rahul-dev-sharma" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Rahul-Dev-Sharma" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <!--a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>-->
+<!---a href="https://github.com/rahulsust" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/--181717?style=flat-square&logo=GitHub&logoColor=white"></a-->
+<a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
+<a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulsust" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hr1d0y_031" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="raihanulbashirh1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hridoy31" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sci94tune" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sci94tune" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sci94tune" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sci94tune" height="30" width="40" /></a>
+<!--a href="https://www.researchgate.net/profile/Rahul-Dev-Sharma" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+<a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+<a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>-->
 </p>
 
-###  Languages I use:
+###  Languages & Tools:
 
 <p align="center">
     <a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
