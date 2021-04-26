@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" />
-</p>
+![Hello world](/giphy.gif)
 
 ### Hi there 👋,I'm Rahul Dev Sharma
 #### An Undergraduate Physics student open to learn about anything.
