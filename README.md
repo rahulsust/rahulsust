@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" />
+</p>
+
 ### Hi there 👋,I'm Rahul Dev Sharma
 #### An Undergraduate Physics student open to learn about anything.
 ### Passionate About:
@@ -6,7 +10,6 @@
 * *Astrophysics*
 ### Find me on:
 <p align="center">
-<!---a href="https://github.com/rahulsust" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/--181717?style=flat-square&logo=GitHub&logoColor=white"></a-->
 <a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
 <a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulsust" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hr1d0y_031" height="30" width="40" /></a>
@@ -16,10 +19,6 @@
 <a href="https://www.hackerearth.com/@sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sci94tune" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sci94tune" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sci94tune" height="30" width="40" /></a>
-<!--a href="https://www.researchgate.net/profile/Rahul-Dev-Sharma" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-<a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-<a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>-->
 </p>
 
 ###  Languages & Tools:
@@ -27,8 +26,6 @@
 <p align="center">
     <a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <!--a href="https://github.com/rahulsust?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a-->
     <a href="https://github.com/rahulsust?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
