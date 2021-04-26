@@ -1,6 +1,7 @@
 <p align="center">
     <img src="giphy.gif"/>
 </p
+
 ### Hi there 👋,I'm Rahul Dev Sharma
 #### An Undergraduate Physics student open to learn about anything.
 ### Passionate About:
