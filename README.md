@@ -9,11 +9,8 @@
 ### Passionate About:
 
 * *Programming*
-* 
 * *Simulations*
-* 
 * *Astrophysics*
-*
 
 ### Find me on:
 
