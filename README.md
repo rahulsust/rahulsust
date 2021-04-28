@@ -3,12 +3,20 @@
 </p
 
 ### Hi there 👋,I'm Rahul Dev Sharma
+
 #### An Undergraduate Physics student open to learn about anything.
+
 ### Passionate About:
+
 * *Programming*
+* 
 * *Simulations*
+* 
 * *Astrophysics*
+*
+
 ### Find me on:
+
 <p align="center">
 <a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
 <a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulsust" height="30" width="40" /></a>
@@ -42,6 +50,7 @@
     <!--<a href="https://github.com/rahulsust" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/rahulsust/rahulsust?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/rahulsust/rahulsust" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/rahulsust/rahulsust?label=profile%20updated&style=flat-square"></a>
 </p>
+
 <!--
 
 - 🔭 I’m currently working on ...
