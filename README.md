@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="giphy.gif"/>
+    <img src="tenor.gif"/>
 </p
 
 ### Hi there 👋,I'm Rahul Dev Sharma
