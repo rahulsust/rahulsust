@@ -1,8 +1,12 @@
 <p align="center">
-    <img src="tenor (1).gif"/>
+<img src="tenor (1).gif"/>
 </p
 
-### Hi there 👋,I'm Rahul Dev Sharma
+# _______________________________________________
+
+## Hi there 👋,
+
+### I'm Rahul Dev Sharma
 
 #### An Undergraduate Physics student open to learn about anything.
 
