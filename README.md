@@ -2,7 +2,7 @@
 <img src="tenor (1).gif"/>
 </p
 
-# _______________________________________________
+# __
 
 ## Hi there 👋,
 
@@ -52,6 +52,7 @@
     <a href="https://github.com/rahulsust/rahulsust" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/rahulsust/rahulsust?label=profile%20updated&style=flat-square"></a>
 </p>
 
+# __
 <!--
 
 - 🔭 I’m currently working on ...
