@@ -8,7 +8,7 @@
 
 ### I'm Rahul Dev Sharma
 
-#### An Undergraduate Physics student open to learn about anything.
+#### An Undergraduate Physics student open to learn about anything that will change his world view.
 
 ### Passionate About:
 
