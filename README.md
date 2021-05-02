@@ -8,7 +8,7 @@
 
 ### I'm Rahul Dev Sharma
 
-#### An Undergraduate Physics student open to learn about anything that will change his world view.
+#### An Undergraduate Physics student open to learn about anything that will change my world view.
 
 ### Passionate About:
 
@@ -16,7 +16,7 @@
 * *Simulations*
 * *Astrophysics*
 
-### Find him on:
+### Find me on:
 
 <p align="center">
 <a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
