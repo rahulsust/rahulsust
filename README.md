@@ -1,25 +1,20 @@
 <p align="center">
 <img src="tenor (1).gif"/>
 </p
-
-# __
-
-## Hi there 👋,
-
-### I'm Rahul Dev Sharma
-
-#### An Undergraduate Physics student open to learn about anything that will change my world view.
-
-### Passionate About:
-
-* *Programming*
-* *Simulations*
-* *Astrophysics*
-
-### Find me on:
+<h1>__</h1>
+<h2>Hi there 👋,</h2>
+<h3>I'm Rahul Dev Sharma</h3>
+<h4>An Undergraduate Physics student open to learn about anything that will change my world view.</h4>
+<h3>Passionate About:</h3>
+<ul>
+<li><em>Programming</em></li>
+<li><em>Simulations</em></li>
+<li><em>Astrophysics</em></li>
+</ul>
+<h3>Find me on:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
+<p><a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
 <a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulsust" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hr1d0y_031" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="raihanulbashirh1" height="30" width="40" /></a>
@@ -28,10 +23,8 @@
 <a href="https://www.hackerearth.com/@sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sci94tune" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sci94tune" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sci94tune" height="30" width="40" /></a>
-</p>
-
-###  Languages & Tools:
-
+</p></p>
+<h3>Languages &amp; Tools:</h3>
 <p align="center">
     <a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
