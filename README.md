@@ -1,6 +1,6 @@
 <p align="center">
 <img src="tenor (1).gif"/>
-</p
+</p>
 <h1>__</h1>
 <h2>Hi there 👋,</h2>
 <h3>I'm Rahul Dev Sharma</h3>
