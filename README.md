@@ -14,15 +14,15 @@
 <h3>Find me on:</h3>
 
 <p align="center">
-<p><a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-dev-sharma" height="30" width="40" /></a>
-<a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulsust" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hr1d0y_031" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="raihanulbashirh1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahulsust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hridoy31" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sci94tune" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sci94tune" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sci94tune" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sci94tune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sci94tune" height="30" width="40" /></a>
+<p><a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="rahul-dev-sharma" height="30" width="30" /></a>
+<a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeEzknXIn4rT3Jbt0gEwW_2WaBWfmC2eGbdoFZ-YLZ4Zt2ESD9Ow8MCjVYk_XteYMp0hrBgjV7R-iUZ7L0-4uN_x" alt="rahulsust" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/rahulsust" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/favicon.ico" alt="rahulsust" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/rahulsust" target="blank"><img align="center" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="rahulsust" height="30" width="30" /></a>
+<a href="https://codeforces.com/profile/rahulsust" target="blank"><img align="center" src="https://codeforces.com/favicon.ico" alt="rahulsust" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/sci94tune" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="sci94tune" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@sci94tune" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/newton/production/static/images/common/favicon.png" alt="@sci94tune" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sci94tune" target="blank"><img align="center" src="https://www.geeksforgeeks.org/favicon.ico" alt="sci94tune" height="30" width="30" /></a>
+<a href="https://www.topcoder.com/members/sci94tune" target="blank"><img align="center" src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png" alt="sci94tune" height="30" width="30" /></a>
 </p></p>
 <h3>Languages &amp; Tools:</h3>
 <p align="center">
@@ -39,12 +39,15 @@
 
 </a>
 -->
+
 <p align="center">
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html,&hide_border=false&title_color=5391FE&text_color=555"
 </p>
+    
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&show_icons=true&hide=issues&icon_color=000000&hide_border=false&title_color=5391FE&text_color=555">
 </p>
+
 <p align="center">
     <a href="https://github.com/rahulsust?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/rahulsust" target="_blank"><img alt="rahulsust" src="https://badges.pufler.dev/visits/rahulsust/rahulsust?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
