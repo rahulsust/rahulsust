@@ -26,7 +26,7 @@
 </p></p>
 <h3>Languages &amp; Tools:</h3>
 <p align="center">
-    <a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <!--a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a-->
     <a href="https://github.com/rahulsust?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=clang" target="_blank"><img alt="C" src="https://img.shields.io/badge/-c-3776AB?style=flat-square&logo=C&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-cpp-3776AB?style=flat-square&logo=Cplusplus&logoColor=white"></a>
