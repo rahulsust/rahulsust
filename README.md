@@ -51,8 +51,8 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
 </p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight"/></p>
+
 
 <p align="center">
     <a href="https://github.com/rahulsust?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
