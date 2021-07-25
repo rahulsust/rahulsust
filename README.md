@@ -44,7 +44,7 @@
 </a>
 -->
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
 </p>
 
 <p align="center">
