@@ -48,10 +48,14 @@
 </p>
 
 <p align="center">
-    <img height="191px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight"/></p>
+<!--<p align="center"><img height="150px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/-->
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight&style="display:block;"/></p>
+
+<p align="center"><img height="130px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight&style="display:block;"/>
 
 
 <p align="center">
