@@ -2,8 +2,8 @@
 <img src="tenor (1).gif"/>
 </p>
 <h1>__</h1>
-<h2>Hi there 👋
-, I'm Rahul Dev Sharma</h2>
+<h3>Hi there 👋
+, I'm Rahul Dev Sharma</h3>
 <h4>An Undergraduate Physics student open to learn about anything that will change my world view.</h4>
 <h3>Passionate About:</h3>
 <ul>
@@ -48,14 +48,14 @@
 </p>
 
 <p align="center">
-    <img height="250px" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
+    <img height="140px" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
 </p>
 
-<!--<p align="center"><img height="150px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/-->
+<!--<p align="center"><img height="140px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/-->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight&style="display:block;"/></p>
 
-<p align="center"><img height="250px" width="500px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
+<p align="center"><img height="140px" width="500px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
 </p>
 
 
