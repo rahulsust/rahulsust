@@ -27,14 +27,14 @@
 <h3>Languages &amp; Tools:</h3>
 <p align="center">
     <!--a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a-->
-    <a href="https://github.com/rahulsust?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=clang" target="_blank"><img alt="C" src="https://img.shields.io/badge/-c-3776AB?style=flat-square&logo=C&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-cpp-3776AB?style=flat-square&logo=Cplusplus&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=js" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-javscript-0076A8?style=flat-square&logo=Javascript&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWork&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&tools=virtualbox" target="_blank"><img alt="python" src="https://img.shields.io/badge/-virtualbox-3776AB?style=flat-square&logo=virtualbox&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=python" target="_blank"><img alt="python" height="50" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=clang" target="_blank"><img alt="C" height="50" src="https://img.shields.io/badge/-c-3776AB?style=flat-square&logo=C&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=cpp" target="_blank"><img alt="C++" height="50" src="https://img.shields.io/badge/-cpp-3776AB?style=flat-square&logo=Cplusplus&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=js" target="_blank"><img alt="Javascript" height="50" src="https://img.shields.io/badge/-javscript-0076A8?style=flat-square&logo=Javascript&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" height="50" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWork&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&tools=virtualbox" target="_blank"><img alt="python" height="50" src="https://img.shields.io/badge/-virtualbox-3776AB?style=flat-square&logo=virtualbox&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=shell" target="_blank"><img alt="shell" height="50" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/rahulsust?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" height="50" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 <!--<a href="https://github.com/rahulsust/github-stats">
 
@@ -48,14 +48,15 @@
 </p>
 
 <p align="center">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
+    <img height="250px" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
 </p>
 
 <!--<p align="center"><img height="150px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/-->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight&style="display:block;"/></p>
 
-<p align="center"><img height="130px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight&style="display:block;"/>
+<p align="center"><img height="250px" width="500px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
+</p>
 
 
 <p align="center">
