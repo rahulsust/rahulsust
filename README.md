@@ -44,7 +44,7 @@
 </a>
 -->
 <p align="center">
-    <img height="140px" width="370" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
+    <img height="140px" width="360" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 <p align="center"><img height="140px" width="540" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight"/></p>
 
-<p align="center"><img height="140px" width="390px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
+<p align="center"><img height="140px" width="370px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
 </p>
 
 
