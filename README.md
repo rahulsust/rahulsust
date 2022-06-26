@@ -9,6 +9,7 @@
 <ul>
 <li><em>Programming</em></li>
 <li><em>Simulations</em></li>
+<li><em>Machine learning and Data Science</em></li>
 <li><em>Astrophysics</em></li>
 </ul>
 <h3>Find me on:</h3>
