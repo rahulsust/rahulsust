@@ -4,7 +4,7 @@
 <h1>__</h1>
 <h3>Hi there 👋
 , I'm Rahul Dev Sharma</h3>
-<h4>An Undergraduate Physics student open to learn about anything that will change my world view.</h4>
+<h4>An Undergraduate Physics student with a Problem Solving Mindset and interested in making my SECOND BRAIN using programming.</h4>
 <h3>Passionate About:</h3>
 <ul>
 <li><em>Programming</em></li>
