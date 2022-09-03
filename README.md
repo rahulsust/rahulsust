@@ -10,7 +10,7 @@
 <li><em>Programming</em></li>
 <li><em>Simulations</em></li>
 <li><em>Machine learning and Data Science</em></li>
-<li><em>Astrophysics</em></li>
+<li><em>Quantum Computing</em></li>
 </ul>
 <h3>Find me on:</h3>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
     <a href="https://github.com/rahulsust?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/rahulsust" target="_blank"><img alt="rahulsust" src="https://badges.pufler.dev/visits/rahulsust/rahulsust?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--a href="https://github.com/rahulsust" target="_blank"><img alt="rahulsust" src="https://badges.pufler.dev/visits/rahulsust/rahulsust?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a-->
     <!--<a href="https://github.com/rahulsust" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/rahulsust/rahulsust?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/rahulsust/rahulsust" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/rahulsust/rahulsust?label=profile%20updated&style=flat-square"></a>
 </p>
