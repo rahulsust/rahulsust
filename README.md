@@ -9,7 +9,7 @@
 <ul>
 <li><em>Programming</em></li>
 <li><em>Simulations</em></li>
-<li><em>Machine learning and Data Science</em></li>
+<!--li><em>Machine learning and Data Science</em></li-->
 <li><em>Quantum Computing</em></li>
 </ul>
 <h3>Find me on:</h3>
