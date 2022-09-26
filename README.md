@@ -59,7 +59,7 @@
 <p align="center"><img height="140px" width="370px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
 </p>
 
-
+[![@sci94tune's Holopin board](https://holopin.io/api/user/board?user=sci94tune)](https://holopin.io/@sci94tune)
 <p align="center">
     <a href="https://github.com/rahulsust?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/rahulsust" target="_blank"><img alt="rahulsust" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=rahulsust"/><!--..https://badges.pufler.dev/visits/rahulsust/rahulsust?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a-->
