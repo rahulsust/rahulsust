@@ -44,6 +44,12 @@
 
 </a>
 -->
+<h3> Achievements: </h3>
+
+[![IBM Quantum Challenge 2022](ibm-quantum-challenge-fall-2022-achievement-foundational.png)](https://www.credly.com/badges/38cfc761-751f-4123-9c41-9d60179c2c69/public_url)
+
+<h3> Github Statistics: </h3>
+
 <p align="center">
     <img height="140px" width="360" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
 </p>
@@ -58,6 +64,8 @@
 
 <p align="center"><img height="140px" width="370px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
 </p>
+
+<h3> Holopin Board:</h3>
 
 [![@sci94tune's Holopin board](https://holopin.io/api/user/board?user=sci94tune)](https://holopin.io/@sci94tune)
 <p align="center">
