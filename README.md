@@ -2,9 +2,10 @@
 <img src="tenor (1).gif"/>
 </p> -->
 <h1>__</h1>
-<h3>Hi there 👋
+
+<h3 align="center">Hi there 👋
 , I'm Rahul Dev Sharma</h3>
-<h4>An Junior Undergraduate Physics student with a Problem Solving Mindset and unbounded thirst for the unknown. I'm interested in making my SECOND BRAIN using programming.</h4>
+<h3 align="center">A Junior Undergraduate Physics student, who love to solve problems and open to new ideas to implement. </h3> <!--I'm interested in making my SECOND BRAIN using programming.</h4> -->
 <h3>Passionate About:</h3>
 <ul>
 <li><em>Quantum Computation</em></li>
@@ -53,16 +54,6 @@
     <a href="https://github.com/rahulsust?tab=repositories&language=shell" target="_blank"><img alt="shell" height="35" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
     <a href="https://github.com/rahulsust?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" height="35" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
-<!--<a href="https://github.com/rahulsust/github-stats">
-
-![](https://github.com/rahulsust/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/rahulsust/github-stats/blob/master/generated/languages.svg)
-
-</a>
--->
-<h3> Achievements: </h3>
-
-[![IBM Quantum Challenge 2022](ibm-quantum-challenge-fall-2022-achievement-foundational.png)](https://www.credly.com/badges/38cfc761-751f-4123-9c41-9d60179c2c69/public_url)
 
  
 <h3> Github Statistics: </h3>
@@ -77,6 +68,17 @@
 <p align="center"><img height="400px" width="470px" src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulsust&theme=high-contrast&custom_title=Rahul%20Dev%20Sharma's%20Comtributions%20Graph&hide_border=false">
 </p>
 
+<!--<a href="https://github.com/rahulsust/github-stats">
+
+![](https://github.com/rahulsust/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/rahulsust/github-stats/blob/master/generated/languages.svg)
+
+</a>
+-->
+<!-- <h3> Achievements: </h3>
+
+[![IBM Quantum Challenge 2022](ibm-quantum-challenge-fall-2022-achievement-foundational.png)](https://www.credly.com/badges/38cfc761-751f-4123-9c41-9d60179c2c69/public_url)
+ -->
 <!--<p align="center"><img height="140px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/-->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
