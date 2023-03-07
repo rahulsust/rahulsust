@@ -1,18 +1,34 @@
-<p align="center">
+<!-- <p align="center">
 <img src="tenor (1).gif"/>
-</p>
+</p> -->
 <h1>__</h1>
 <h3>Hi there 👋
 , I'm Rahul Dev Sharma</h3>
-<h4>An Undergraduate Physics student with a Problem Solving Mindset and interested in making my SECOND BRAIN using programming.</h4>
+<h4>An Junior Undergraduate Physics student with a Problem Solving Mindset and unbounded thirst for the unknown. I'm interested in making my SECOND BRAIN using programming.</h4>
 <h3>Passionate About:</h3>
 <ul>
-<li><em>Programming</em></li>
-<li><em>Simulations</em></li>
+<li><em>Quantum Computation</em></li>
+<li><em>Machine Learning</em></li>
 <!--li><em>Machine learning and Data Science</em></li-->
-<li><em>Quantum Computing</em></li>
+<li><em>Competitive Programming</em></li>
+<li><em>Astrophysics</em></li>
+<li><em>Brain Computer Interfacing</em></li>
 </ul>
-<h3>Find me on:</h3>
+
+<h3>I’m currently</h3>
+
+- 🔭 working on BDLensing Astronomy Research Project, Omdena Local Chapter project.
+
+- 🌱 learning Quantum Fourier Transform.
+
+- 👯 looking to collaborate on Quantum Computing project, Python Project.
+
+- 🤔 looking for help with Quantum Fourier Transform, Natural Language Processing, Transformers.
+<!-- - 💬 Ask me about 
+- ⚡ Fun fact: ... -->
+
+
+<h3>Reach me on:</h3>
 
 <p align="center">
 <p><a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="rahul-dev-sharma" height="30" width="30" /></a>
@@ -48,22 +64,22 @@
 
 [![IBM Quantum Challenge 2022](ibm-quantum-challenge-fall-2022-achievement-foundational.png)](https://www.credly.com/badges/38cfc761-751f-4123-9c41-9d60179c2c69/public_url)
 
+ 
 <h3> Github Statistics: </h3>
 
 <p align="center">
-    <img height="140px" width="360" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
+    <img height="150px" width="420" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
 </p>
 
-<p align="center">
-    <img height="140px" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
+<p align="center"><img height="159px" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
+</p>
+<p align="center"><img height="175px" width="605" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=67ffff&icon_color=fff&theme=tokyonight"/></p>
+<p align="center"><img height="400px" width="470px" src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulsust&theme=high-contrast&custom_title=Rahul%20Dev%20Sharma's%20Comtributions%20Graph&hide_border=false">
 </p>
 
 <!--<p align="center"><img height="140px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/-->
 
-<p align="center"><img height="140px" width="540" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=0,52fa5a,4dfcff,c64dff&icon_color=fff&theme=tokyonight"/></p>
-
-<p align="center"><img height="140px" width="370px" src="https://activity-graph.herokuapp.com/graph?username=rahulsust&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=&theme=tokyonight"/>
-</p>
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <h3> Holopin Board:</h3>
 
