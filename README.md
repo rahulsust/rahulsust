@@ -3,8 +3,8 @@
 </p> -->
 <h1>__</h1>
 
-<h3 align="center">Hi there 👋
-, I'm Rahul Dev Sharma</h3>
+<h2 align="center">Hi there 👋
+, I'm Rahul Dev Sharma</h2>
 <h3 align="center">A Junior Undergraduate Physics student, who love to solve problems and open to new ideas to implement. </h3> <!--I'm interested in making my SECOND BRAIN using programming.</h4> -->
 <h3>Passionate About:</h3>
 <ul>
