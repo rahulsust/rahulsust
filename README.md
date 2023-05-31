@@ -59,15 +59,15 @@
 <h3> Github Statistics: </h3>
 
 <p align="center">
-    <img height="160px" width="430" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
+    <img height="160px" width="480" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
 </p>
 
 <!--p align="center"><img height="159px" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
 </p-->
-<p align="center"><img height="175px" width="605" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=67ffff&icon_color=fff&theme=tokyonight"/></p>
+<!-- <p align="center"><img height="175px" width="605" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsust&hide=html&layout=compact&bg_color=67ffff&icon_color=fff&theme=tokyonight"/></p>
 <p align="center"><img height="380px" width="460px" src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulsust&theme=high-contrast&custom_title=Rahul%20Dev%20Sharma's%20Comtributions%20Graph&hide_border=false">
 </p>
-
+ -->
 <!--<a href="https://github.com/rahulsust/github-stats">
 
 ![](https://github.com/rahulsust/github-stats/blob/master/generated/overview.svg)
@@ -90,12 +90,13 @@
 
 <a href="https://github.com/rahulsust?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>-->
 
-<p align="center">
-<a href="https://github.com/rahulsust" target="_blank"><img alt="rahulsust" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=rahulsust"/><!--..https://badges.pufler.dev/visits/rahulsust/rahulsust?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a-->
-    <!--<a href="https://github.com/rahulsust" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/rahulsust/rahulsust?label=hits&style=flat-square"></a>-->
-<a href="https://github.com/rahulsust/rahulsust" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/rahulsust/rahulsust?label=profile%20updated&style=flat-square"></a>
+<!-- <p align="center">
+<a href="https://github.com/rahulsust" target="_blank"><img alt="rahulsust" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=rahulsust"/><!--..https://badges.pufler.dev/visits/rahulsust/rahulsust?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a
+    <a href="https://github.com/rahulsust" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/rahulsust/rahulsust?label=hits&style=flat-square"></a>
+     <a href="https://github.com/rahulsust/rahulsust" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/rahulsust/rahulsust?label=profile%20updated&style=flat-square"></a>
 </p>
-
+ -->
+ 
 <h1>__</h1>
 <!--
 
