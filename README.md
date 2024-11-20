@@ -1,66 +1,79 @@
 <!-- <p align="center">
 <img src="tenor (1).gif"/>
 </p> -->
-<h1>__</h1>
 
-<h2 align="center">Hi there 👋
-, I'm Rahul Dev Sharma</h2>
-<h3 align="center">A Junior Undergraduate Physics student, who love to solve problems and open to new ideas to implement. </h3> <!--I'm interested in making my SECOND BRAIN using programming.</h4> -->
-<h3>Passionate About:</h3>
+<h1 align="center">Hi there 👋 , I'm Rahul Dev Sharma</h1>
+<h3 align="center">Physics Undergrad | Budding Quantum Computing Researcher | Computation Enthusiast</h3>
+
+---
+
+<h2>Currently</h2>
 <ul>
-<li><em>Quantum Computation</em></li>
-<li><em>Machine Learning</em></li>
-<!--li><em>Machine learning and Data Science</em></li-->
-<li><em>Competitive Programming</em></li>
-<li><em>Astrophysics</em></li>
-<li><em>Brain Computer Interfacing</em></li>
+  <li>🔬 Working on quantum error correction and topological codes.</li>
+  <li>🌱 learning ZX calculus and tensor networks.</li>
+  <li>📚 Passionate about quantum information science and exploring its intersections with computation.</li>
+  <li>🎯 Aiming to pursue graduate studies in quantum information, computational physics, or quantum materials</li>
 </ul>
 
-<h3>I’m currently</h3>
+---
 
-- 🔭 working on BDLensing Astronomy Research Project, Omdena Local Chapter project.
+<h2>Research Interests</h2>
+<ul>
+  <li>Quantum Error Correction and Fault-Tolerant Quantum Computation</li>
+  <li>Topological Quantum Computation</li>
+  <li>Tensor Networks and Graph Theory</li>
+  <li>Applications of Quantum Materials</li>
+</ul>
 
-- 🌱 learning Quantum Fourier Transform.
+---
 
-- 👯 looking to collaborate on Quantum Computing project, Python Project.
+<h2>Quantum Computing</h2>
+<ul>
+  <li><strong>Frameworks:</strong> Qiskit, Pennylane, Classiq</li>
+  <li><strong>Profiles:</strong> <a href="https://pennylane.ai/profile/sci94tune" target="_blank">Pennylane</a>, <a href="https://aqora.io/sci94tune" target="_blank">Aqora</a></li>
+</ul>
 
-- 🤔 looking for help with Quantum Fourier Transform, Natural Language Processing, Transformers.
-<!-- - 💬 Ask me about 
-- ⚡ Fun fact: ... -->
+---
 
-
-<h3>Reach me on:</h3>
-
+<h2>Competitive Programming Profiles</h2>
 <p align="center">
-<p><a href="https://linkedin.com/in/rahul-dev-sharma" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="rahul-dev-sharma" height="30" width="30" /></a>
-<a href="https://fb.com/rahulsust" target="blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeEzknXIn4rT3Jbt0gEwW_2WaBWfmC2eGbdoFZ-YLZ4Zt2ESD9Ow8MCjVYk_XteYMp0hrBgjV7R-iUZ7L0-4uN_x" alt="rahulsust" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/rahulsust" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/favicon.ico" alt="rahulsust" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/rahulsust" target="blank"><img align="center" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="rahulsust" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/rahulsust" target="blank"><img align="center" src="https://codeforces.com/favicon.ico" alt="rahulsust" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/sci94tune" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="sci94tune" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@sci94tune" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/newton/production/static/images/common/favicon.png" alt="@sci94tune" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sci94tune" target="blank"><img align="center" src="https://www.geeksforgeeks.org/favicon.ico" alt="sci94tune" height="30" width="30" /></a>
-<a href="https://www.topcoder.com/members/sci94tune" target="blank"><img align="center" src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png" alt="sci94tune" height="30" width="30" /></a>
-</p></p>
-<h3>Languages &amp; Tools:</h3>
-<p align="center">
-    <!--a href="https://github.com/rahulsust?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a-->
-    <a href="https://github.com/rahulsust?tab=repositories&language=python" target="_blank"><img alt="python" height="35" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=clang" target="_blank"><img alt="C" height="35" src="https://img.shields.io/badge/-c-3776AB?style=flat-square&logo=C&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=cpp" target="_blank"><img alt="C++" height="35" src="https://img.shields.io/badge/-cpp-3776AB?style=flat-square&logo=Cplusplus&logoColor=white"></a>
-    <!--a href="https://github.com/rahulsust?tab=repositories&language=js" target="_blank"><img alt="Javascript" height="35" src="https://img.shields.io/badge/-javscript-0076A8?style=flat-square&logo=Javascript&logoColor=white"></a-->
-    <!--a href="https://github.com/rahulsust?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" height="35" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWork&logoColor=white"></a-->
-    <a href="https://github.com/rahulsust?tab=repositories&tools=virtualbox" target="_blank"><img alt="python" height="35" src="https://img.shields.io/badge/-virtualbox-3776AB?style=flat-square&logo=virtualbox&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=shell" target="_blank"><img alt="shell" height="35" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/rahulsust?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" height="35" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/rahulsust" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/favicon.ico" alt="CodeChef" height="30" /></a>
+  <a href="https://codeforces.com/profile/rahulsust" target="_blank"><img src="https://codeforces.com/favicon.ico" alt="CodeForces" height="30" /></a>
+  <a href="https://www.leetcode.com/sci94tune" target="_blank"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="LeetCode" height="30" /></a>
+  <a href="https://www.hackerrank.com/rahulsust" target="_blank"><img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="HackerRank" height="30" /></a>
+  <a href="https://www.topcoder.com/members/sci94tune" target="_blank"><img src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png" alt="TopCoder" height="30" /></a>
 </p>
 
- 
-<h3> Github Statistics: </h3>
+---
 
+<h2>Languages & Tools</h2>
 <p align="center">
-    <img height="160px" width="480" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
+  <a href="#"><img alt="Python" height="35" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="C++" height="35" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+  <a href="#"><img alt="C" height="35" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black"></a>
+  <a href="#"><img alt="Julia" height="35" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white"></a>
+  <a href="#"><img alt="Mathematica" height="35" src="https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white"></a>
+  <a href="#"><img alt="LaTeX" height="35" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"></a>
+  <a href="#"><img alt="Shell" height="35" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=powershell&logoColor=white"></a>
 </p>
+
+---
+
+<h2>Reach Me On</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-dev-sharma" target="_blank"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height="30"></a>
+  <a href="https://quantumcomputing.stackexchange.com/users/23219/rahul-dev-sharma" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico" alt="Stack Overflow" height="30"></a>
+  <a href="https://www.researchgate.net/profile/Rahul-Dev-Sharma" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" height="30"></a>
+<!--   <a href="path-to-your-cv.pdf" target="_blank">View CV/Resume</a> -->
+</p>
+
+---
+
+<h2>Github Statistics:</h2>
+<p align="center">
+    <img height="160px" width="480" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulsust&include_all_commits=true&count_private=true&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&line_height=21&text_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight">
+</p>
+
 
 <!--p align="center"><img height="159px" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=tokyonight" />
 </p-->
