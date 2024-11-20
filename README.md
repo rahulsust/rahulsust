@@ -1,7 +1,3 @@
-<!-- <p align="center">
-<img src="tenor (1).gif"/>
-</p> -->
-
 <h1 align="center">Hi there 👋 , I'm Rahul Dev Sharma</h1>
 <h3 align="center">Physics Undergrad | Budding Quantum Computing Researcher | Computation Enthusiast</h3>
 
@@ -30,8 +26,10 @@
 <h2>Quantum Computing</h2>
 <ul>
   <li><strong>Frameworks:</strong> Qiskit, Pennylane, Classiq</li>
-  <li><strong>Profiles:</strong> <a href="https://pennylane.ai/profile/sci94tune" target="_blank">Pennylane</a>, <a href="https://aqora.io/sci94tune" target="_blank">Aqora</a></li>
+  <li><strong>Profiles:</strong> <a href="https://pennylane.ai/profile/sci94tune" target="_blank">Pennylane</a>, <a href="https://aqora.io/sci94tune" target="_blank">Aqora</a>, <a href="https://quantumcomputing.stackexchange.com/users/23219/rahul-dev-sharma" target="_blank">Quantum Computing Stack Exchange</a></li>
 </ul>
+
+
 
 ---
 
@@ -62,7 +60,7 @@
 <h2>Reach Me On</h2>
 <p align="center">
   <a href="https://linkedin.com/in/rahul-dev-sharma" target="_blank"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height="30"></a>
-  <a href="https://quantumcomputing.stackexchange.com/users/23219/rahul-dev-sharma" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico" alt="Stack Overflow" height="30"></a>
+<!--   <a href="https://quantumcomputing.stackexchange.com/users/23219/rahul-dev-sharma" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico" alt="Stack Overflow" height="30"></a> -->
   <a href="https://www.researchgate.net/profile/Rahul-Dev-Sharma" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" height="30"></a>
 <!--   <a href="path-to-your-cv.pdf" target="_blank">View CV/Resume</a> -->
 </p>
