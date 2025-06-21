@@ -39,6 +39,8 @@
  <li><strong>Profiles:</strong> <a href="https://kaggle.com/rahuldsharma" target="_blank">Kaggle</a></li>
 </ul>
 
+---
+
 <h2>Competitive Programming Profiles</h2>
 <p align="center">
   <a href="https://www.codechef.com/users/rahulsust" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/favicon.ico" alt="CodeChef" height="30" /></a>
