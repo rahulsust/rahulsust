@@ -1,24 +1,24 @@
-<h1 align="center">Hi there 👋 , I'm Rahul Dev Sharma</h1>
-<h3 align="center">Physics Undergrad | Budding Quantum Computing Researcher | Computation Enthusiast</h3>
+<h1 align="center">Hi there 👋</h1>
+<h1 align="center">I'm Rahul Dev Sharma</h1>
+<h3 align="center">Physics Undergrad | Quantum Computing Researcher | Computation Enthusiast</h3>
 
 ---
 
 <h2>Currently</h2>
 <ul>
-  <li>🔬 Working on quantum error correction and topological codes.</li>
-  <li>🌱 learning ZX calculus and tensor networks.</li>
-  <li>📚 Passionate about quantum information science and exploring its intersections with computation.</li>
-  <li>🎯 Aiming to pursue graduate studies in quantum information, computational physics, or quantum materials</li>
+  <li> Working on measurement based quantum computation, quantum error correction.</li>
+  <li> Looking for research internship, assistantship position.
+  <li> Aiming to pursue graduate studies in quantum computing, quantum information, or physics.</li>
 </ul>
 
 ---
 
 <h2>Research Interests</h2>
 <ul>
-  <li>Quantum Error Correction and Fault-Tolerant Quantum Computation</li>
-  <li>Topological Quantum Computation</li>
-  <li>Tensor Networks and Graph Theory</li>
-  <li>Applications of Quantum Materials</li>
+<li>Quantum Computing and Information</li>
+<li>Quantum Hardware</li>
+<li>Computational Physics and Astrophysics</li>
+<li>Application of AI/ML</li>
 </ul>
 
 ---
@@ -33,13 +33,19 @@
 
 ---
 
+<h2>Machine Learning</h2>
+<ul>
+ <li><strong>Frameworks:</strong> Scikit-learn, Keras, PyTorch</li>
+ <li><strong>Profiles:</strong> <a href="https://kaggle.com/rahuldsharma" target="_blank">Kaggle</a></li>
+</ul>
+
 <h2>Competitive Programming Profiles</h2>
 <p align="center">
   <a href="https://www.codechef.com/users/rahulsust" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/favicon.ico" alt="CodeChef" height="30" /></a>
-  <a href="https://codeforces.com/profile/rahulsust" target="_blank"><img src="https://codeforces.com/favicon.ico" alt="CodeForces" height="30" /></a>
+  <a href="https://codeforces.com/profile/rahulsust" target="_blank"><img src="https://codeforces.org/s/18596/images/codeforces-sponsored-by-ton.png" alt="CodeForces" height="30" /></a>
   <a href="https://www.leetcode.com/sci94tune" target="_blank"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="LeetCode" height="30" /></a>
   <a href="https://www.hackerrank.com/rahulsust" target="_blank"><img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="HackerRank" height="30" /></a>
-  <a href="https://www.topcoder.com/members/sci94tune" target="_blank"><img src="https://www.topcoder.com/wp-content/uploads/2020/05/cropped-TC-Icon-32x32.png" alt="TopCoder" height="30" /></a>
+  <a href="https://www.topcoder.com/members/sci94tune" target="_blank"><img src="https://www.topcoder.com/assets/topcoder-logo.svg" alt="TopCoder" height="30" /></a>
 </p>
 
 ---
@@ -49,8 +55,8 @@
   <a href="#"><img alt="Python" height="35" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
   <a href="#"><img alt="C++" height="35" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="#"><img alt="C" height="35" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black"></a>
-  <a href="#"><img alt="Julia" height="35" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white"></a>
-  <a href="#"><img alt="Mathematica" height="35" src="https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white"></a>
+<!--   <a href="#"><img alt="Julia" height="35" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white"></a>
+  <a href="#"><img alt="Mathematica" height="35" src="https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white"></a> -->
   <a href="#"><img alt="LaTeX" height="35" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"></a>
   <a href="#"><img alt="Shell" height="35" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=powershell&logoColor=white"></a>
 </p>
