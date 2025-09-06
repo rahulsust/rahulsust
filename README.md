@@ -1,25 +1,21 @@
 <h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Rahul Dev Sharma</h1>
-<h3 align="center">Physics Undergrad | Quantum Computing Researcher | Computation Enthusiast</h3>
+<h2 align="center">I'm Rahul Dev Sharma</h2>
+<h4 align="center">Physics Graduate | Quantum Information Researcher | Computational Physics Enthusiast</h4>
 
 ---
 
-<h2>Currently</h2>
-<ul>
-  <li> Working on measurement based quantum computation, quantum error correction.</li>
-  <li> Looking for research internship, assistantship position.
-  <li> Aiming to pursue graduate studies in quantum computing, quantum information, or physics.</li>
-</ul>
+### Currently
+- Exploring **quantum resources**: magic states, cluster states, and error correction.
+- Seeking **MS/PhD opportunities** in quantum information science and computation.
+- Open for discussion on quantum computation, information, or anything else!
 
 ---
 
-<h2>Research Interests</h2>
-<ul>
-<li>Quantum Computing and Information</li>
-<li>Quantum Hardware</li>
-<li>Computational Physics and Astrophysics</li>
-<li>Application of AI/ML</li>
-</ul>
+### Research Interests
+- Quantum Computing & Information
+- Quantum Error Correction
+- Computational Physics & Simulations
+- Applications of AI/ML in Physical Systems
 
 ---
 
